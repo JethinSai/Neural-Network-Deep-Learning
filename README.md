@@ -1,4 +1,4 @@
-# Machine Learning CS5710 Assinment 1 
+# Assinment 1 
 ## Name Ch Jethin Sai  
 ### Student Id 700746555 spring 2023 
 In this assignment,
