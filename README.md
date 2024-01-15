@@ -1,6 +1,6 @@
 # Assinment 1 
 ## Ch Jethin Sai  
-### Student Id 700746555 spring 2023 
+### Student Id 700746555 spring 2024
 In this assignment,
 The first program takes an input string, removes at least 2 characters from it, 
 and then reverses the remaining characters before displaying the result. 
