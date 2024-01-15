@@ -1,5 +1,5 @@
 # Assinment 1 
-## Name Ch Jethin Sai  
+## Ch Jethin Sai  
 ### Student Id 700746555 spring 2023 
 In this assignment,
 The first program takes an input string, removes at least 2 characters from it, 
