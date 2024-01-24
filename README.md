@@ -21,3 +21,5 @@ The third code snippet performs a similar function to the second, but focuses on
 In this assignment,
 The 1st Quation The code defines two classes, Employee and Fulltime Employee, where Fulltime Employee inherits from Employee. The Employee class tracks the number of employees and their total salary, offering a method to calculate the average salary. Instances of both Employee and Fulltime Employee are created, each with attributes like name, family, salary, and department. Finally, it prints the average salary of all employees and the total number of employees, demonstrating class inheritance, class methods, and class variables in action.
 In The 2nd Quation The above code Generate a 20-element array of random floating-point numbers between 1 and 20. Reshape this array into a 4x5 matrix. Identify and replace the maximum value in each row of the matrix with 0, using advanced indexing techniques. Print the final modified matrix, showcasing the altered values.
+### Videos Links
+[video](https://drive.google.com/file/d/1SMLmV3Ok0kIw024JU68sj8sN4hNjcAZV/view?usp=drive_link)
