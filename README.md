@@ -9,7 +9,7 @@ Lastly, the third program calculates a letter grade (A, B, C, D, or F) based on 
 predetermined grading scheme and prints the determined grade. 
 These concise Python programs showcase string manipulation, text replacement, and conditional statements.
 ### Videos Links
-[video](https://drive.google.com/file/d/1aIKAQPMFXFsAsIFoFsb-HcBL6aRQludB/view?usp=drive_link)
+[video](https://drive.google.com/file/d/1iukLEqUVhsTKe1hy8kz8Paw_J1CF2YOa/view?usp=sharing)
 # Assinmet 2
 In this assignment,
 The first code snippet provided creates a Python function fullname to concatenate a first name and last name into a full name, and another function string_alternative to return every other character from a given string. It then takes user input for first and last names, combines them, and applies string_alternative to the full name.
