@@ -17,3 +17,7 @@ The second code snippet is designed to count the frequency of each word in a tex
 The third code snippet performs a similar function to the second, but focuses on output format. It reads lines from an input file, counts the occurrences of each word, and then writes only the word counts to an output file under the heading "Word_Count:". This script is streamlined for specific output formatting.
 ### Videos Links
 [video](https://drive.google.com/file/d/1sTHuO4gqh4kqSisMmLw7MpnNSLAFnkO5/view?usp=drive_link)
+# Assinmet 3
+In this assignment,
+The 1st Quation The code defines two classes, Employee and Fulltime Employee, where Fulltime Employee inherits from Employee. The Employee class tracks the number of employees and their total salary, offering a method to calculate the average salary. Instances of both Employee and Fulltime Employee are created, each with attributes like name, family, salary, and department. Finally, it prints the average salary of all employees and the total number of employees, demonstrating class inheritance, class methods, and class variables in action.
+In The 2nd Quation The above code Generate a 20-element array of random floating-point numbers between 1 and 20. Reshape this array into a 4x5 matrix. Identify and replace the maximum value in each row of the matrix with 0, using advanced indexing techniques. Print the final modified matrix, showcasing the altered values.
