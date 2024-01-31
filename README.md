@@ -20,15 +20,16 @@ The third code snippet performs a similar function to the second, but focuses on
 # Assinmet 3
 In this assignment,
 The 1st Quation The code defines two classes, Employee and Fulltime Employee, where Fulltime Employee inherits from Employee. The Employee class tracks the number of employees and their total salary, offering a method to calculate the average salary. Instances of both Employee and Fulltime Employee are created, each with attributes like name, family, salary, and department. Finally, it prints the average salary of all employees and the total number of employees, demonstrating class inheritance, class methods, and class variables in action.
-In The 2nd Quation The above code Generate a 20-element array of random floating-point numbers between 1 and 20. Reshape this array into a 4x5 matrix. Identify and replace the maximum value in each row of the matrix with 0, using advanced indexing techniques. Print the final modified matrix, showcasing the altered values.
+In The 2nd Quation The code Generate a 20-element array of random floating-point numbers between 1 and 20. Reshape this array into a 4x5 matrix. Identify and replace the maximum value in each row of the matrix with 0, using advanced indexing techniques. Print the final modified matrix, showcasing the altered values.
 ### Videos Links
 [video](https://drive.google.com/file/d/11PVYd6_AbIY01REojxHuEzqjYu8CgzOZ/view?usp=sharing![image](https://github.com/JethinSai/Neural-Network-Deep-Learning/assets/123522601/6423f2dd-922c-4525-9475-47950557d741)
 )
 
 # Assinmet 4
 In this assignment,
-
-
+The 1st Quation The code first imports Pandas and Matplotlib libraries for data manipulation and visualization. It reads data from a CSV file into a Data Frame df, and then performs basic statistical analysis to describe the data and check for null values. Null values are replaced with the mean of their respective columns. Next, it aggregates the 'Calories' and 'Pulse' columns to find their minimum, maximum, count, and mean. The data is further filtered to create subsets based on specific calorie conditions. A new Data Frame df_modified is created by dropping the 'Maxpulse' column. Finally, the 'Calories' column is converted to integer type, and a scatter plot is generated to visualize the relationship between 'Duration' and 'Calories'.
+In the 2nd Quation 
+First, it reads salary data and divides it into two parts: one for learning (training) and one for testing. It then uses a method called linear regression to learn from the training data. After learning, it tries to predict salaries for the test data. The accuracy of these predictions is checked using a calculation called mean squared error. Finally, it shows a graph where you can see how well the predictions match the actual salaries for both the training and testing data.
 ### Videos Links
 [video](https://drive.google.com/file/d/1JIkyj1uvPCVSZ640ZYR3gM6SLiBj_U62/view?usp=sharing![image](https://github.com/JethinSai/Neural-Network-Deep-Learning/assets/123522601/d82b2dd0-4be9-42fe-af2a-bdbc423d0271)
 )
