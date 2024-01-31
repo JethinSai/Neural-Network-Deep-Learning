@@ -24,3 +24,11 @@ In The 2nd Quation The above code Generate a 20-element array of random floating
 ### Videos Links
 [video](https://drive.google.com/file/d/11PVYd6_AbIY01REojxHuEzqjYu8CgzOZ/view?usp=sharing![image](https://github.com/JethinSai/Neural-Network-Deep-Learning/assets/123522601/6423f2dd-922c-4525-9475-47950557d741)
 )
+
+# Assinmet 4
+In this assignment,
+
+
+### Videos Links
+[video](https://drive.google.com/file/d/1JIkyj1uvPCVSZ640ZYR3gM6SLiBj_U62/view?usp=sharing![image](https://github.com/JethinSai/Neural-Network-Deep-Learning/assets/123522601/d82b2dd0-4be9-42fe-af2a-bdbc423d0271)
+)
