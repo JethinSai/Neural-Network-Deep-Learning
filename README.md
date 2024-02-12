@@ -36,7 +36,7 @@ First, it reads salary data and divides it into two parts: one for learning (tra
 
 # Assinmet 5
 In this assignment,
-
+This code combines two machine learning recipes for teaching a computer to recognize different types of glass. Initially, it uses the scikit-learn library to read and split a list of glass types and their features into two parts: one for training and the other for testing. The first part of the code employs the Gaussian Naïve Bayes method for learning, while the second part utilizes the Linear Support Vector Machine (SVM) approach. Both methods enable the computer to learn from the training data and then test its knowledge by attempting to classify glass types in the test dataset. After the learning and prediction phases, the code evaluates the accuracy of the computer's predictions and generates detailed reports on its performance, showcasing how well it has mastered the task of distinguishing between different glass types based on their properties.
 
 ### Videos Link
 [video]()
