@@ -33,3 +33,10 @@ First, it reads salary data and divides it into two parts: one for learning (tra
 ### Videos Link
 [video](https://drive.google.com/file/d/1JIkyj1uvPCVSZ640ZYR3gM6SLiBj_U62/view?usp=sharing![image](https://github.com/JethinSai/Neural-Network-Deep-Learning/assets/123522601/d82b2dd0-4be9-42fe-af2a-bdbc423d0271)
 )
+
+# Assinmet 4
+In this assignment,
+
+
+### Videos Link
+[video]()
