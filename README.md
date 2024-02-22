@@ -40,3 +40,11 @@ This code combines two machine learning recipes for teaching a computer to recog
 
 ### Videos Link
 [video](https://drive.google.com/file/d/1kC3eFhb7u5TFeaZRMLTZOCMHEKV5rypP/view?usp=sharing)
+
+# Assinmet 6
+In this assignment,
+The provided assignment outlines the process of creating and training a neural network model using Keras to classify the MNIST dataset, which contains 28x28 pixel grayscale images of handwritten digits. The images are reshaped into 784-dimensional vectors and normalized, while labels are one-hot encoded. The model's architecture features layers with ReLU, tanh, and sigmoid activations, and it's trained on both scaled and unscaled data to examine the effects on performance. Training progress is tracked via accuracy and loss metrics visualized using Matplotlib, highlighting potential overfitting and the learning process. Inference on a single test image is performed by reshaping it to fit the model's input shape, predicting the class with the highest probability, and printing the predicted digit. The various experiments with activation functions and normalization provide insights into the model's learning efficacy and the importance of input data scaling.
+### Videos Link
+[video](https://drive.google.com/file/d/1H5J4LCOBQlfYtSXgcMHRnw2Vo8cqgRne/view?usp=sharing)
+
+
