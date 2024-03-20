@@ -54,5 +54,9 @@ In this assignment,
 
 # Assinmet 8
 In this assignment,
+In this code we have added one more hidden layer as asked in the quation 1 in assinment and in 2nd We have done the prediction on the test data and visualization.
+we have repeated same 2nd quation for other data set and in 4 th quation we have caliculated loss and accuracy using the history object.
+
+
 ### Videos Link
 [video](https://drive.google.com/file/d/1MZMHSf1YztdRkNfIt1L4ciJGH_S8wUrv/view?usp=sharing)
