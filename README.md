@@ -51,3 +51,8 @@ The provided assignment outlines the process of creating and training a neural n
 In this assignment,
 ### Videos Link
 [video](https://drive.google.com/drive/folders/1d9oxWIN_zGBoN5-VFnFhGAL5IaAZscm1?usp=sharing)
+
+# Assinmet 8
+In this assignment,
+### Videos Link
+[video](https://drive.google.com/file/d/1MZMHSf1YztdRkNfIt1L4ciJGH_S8wUrv/view?usp=sharing)
