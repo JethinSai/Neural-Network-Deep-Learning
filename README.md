@@ -63,7 +63,8 @@ we have repeated same 2nd quation for other data set and in 4 th quation we have
 
 # Assinmet 9
 In this assignment,
-
+Here in 1nd Questions we saved the model as mentioned in the last class the given text as new_text and given it as input to the model saved by using loaded_mobel from the class. 2nd we apply Apply GridSearchCV
 
 ### Videos Link
-[video]()
+[video](https://drive.google.com/file/d/1OYalzjzfrEAYw7nhbeWC45QipOChfz5c/view?usp=sharing![image](https://github.com/JethinSai/Neural-Network-Deep-Learning/assets/123522601/e398b4ac-84b5-4337-9b65-e9e798ebc450)
+)
